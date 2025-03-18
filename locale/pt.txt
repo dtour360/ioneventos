@@ -1,0 +1,352 @@
+#: locale=pt
+
+## Action
+
+### PDF
+PopupPDFBehaviour_927AFCC5_A784_2241_41BC_56D9B7BD5BA5.url = files/SUGEST%C3%83O%20DE%20LAYOUT_pt.pdf
+
+### URL
+LinkBehaviour_83F2DCA6_A687_E2C3_41B7_E05B387916F6.source = https://iondf.com.br/#reservar
+PopupWebFrameBehaviour_E37D02FA_A6BC_E640_41DF_ACFC2C7FE015.url = https://iondf.com.br/#reservar
+PopupWebFrameBehaviour_E69718F7_A6BC_2241_41E2_5B41BB493392.url = https://iondf.com.br/#reservar
+LinkBehaviour_8184FA24_A6BC_21C0_41D2_4B17395DC2B8.source = https://iondf.com.br/#reservar
+LinkBehaviour_8077A817_A687_E1C0_41CB_E08210B7765B.source = https://iondf.com.br/#reservar
+LinkBehaviour_85B95653_A584_EE40_41D6_027DF064353E.source = https://iondf.com.br/#reservar
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_841359B4_A017_B73F_41D2_FDC10E5F076D.text = << Elevador  para Acessar o Auditório
+HotspotPanoramaOverlayTextImage_B6F2A8FF_A008_552A_41E0_2FFDB11AD598.text = L2 Norte
+HotspotPanoramaOverlayTextImage_BE123CB4_A018_4D3E_41D9_8D6227A998D8.text = Recepção >>
+QuadHotspotPanoramaOverlayTextImage_B8627D2B_A008_CF2A_41E1_C481A5B8E0B8.text = SGAN Q 601 Bl H - Asa Norte
+QuadHotspotPanoramaOverlayTextImage_B6140224_A008_54DE_41E2_0D7FC2D69393.text = SGAN Q 601 Bl H - Asa Norte
+
+### Tooltip
+HotspotPanoramaOverlayArea_87DE35B4_9575_0D6A_41E1_F589036A30C6.toolTip = Abrir porta
+HotspotPanoramaOverlayArea_87F981BE_954B_0556_41DC_A687988661E3.toolTip = Acessar Recepção
+HotspotPanoramaOverlayArea_862DC71A_9746_0675_41D0_B69A5CC16E2F.toolTip = Acessar ambientes
+HotspotPanoramaOverlayArea_83E6653C_973B_0D5A_41D6_9920362FA4FA.toolTip = Acessar ambientes
+HotspotPanoramaOverlayArea_828E1B85_974F_052A_41DA_C61B7E45684E.toolTip = Acessar banheiro
+HotspotPanoramaOverlayArea_82C4D246_973D_0736_41D6_658A998792B2.toolTip = Acessar estacionamento
+HotspotPanoramaOverlayArea_83E6353C_973B_0D5A_41DB_DACC827540C0.toolTip = Acessar palco
+HotspotPanoramaOverlayArea_833FDAA5_9755_076A_41E1_C9DB2078384A.toolTip = Acesso ao palco
+HotspotPanoramaOverlayArea_86E8CAEC_9746_0FAE_41DF_AEF2FB399D92.toolTip = Auditório
+HotspotPanoramaOverlayArea_82BB5482_9777_032E_41D4_BF9418131F99.toolTip = Auditório
+HotspotPanoramaOverlayArea_87E7CFDB_957D_1CDE_41E1_4CBAD96CD2DB.toolTip = Auditório
+HotspotPanoramaOverlayArea_82F16038_9755_035A_41CA_EC3CD6D59FCE.toolTip = Auditório
+HotspotPanoramaOverlayArea_86E57996_9746_0A7D_41E0_F272D9CE6C9F.toolTip = Auditório
+HotspotPanoramaOverlayArea_83E6453C_973B_0D5A_41D0_478224258366.toolTip = Auditório
+HotspotPanoramaOverlayArea_87DAED6E_957A_FDF7_4173_285D821DF33C.toolTip = Auditório Foyer
+HotspotPanoramaOverlayArea_828FD860_974D_03EA_41CF_586F55DEA772.toolTip = Banheiros
+HotspotPanoramaOverlayArea_82804AAF_9757_0776_41BE_1CAB31711160.toolTip = Centro
+HotspotPanoramaOverlayArea_831B57BC_975B_0D5A_41E0_BD381B85320A.toolTip = Centro do auditório
+HotspotPanoramaOverlayArea_8291444E_974D_0336_41AC_46C0FDE36B38.toolTip = Copa
+HotspotPanoramaOverlayArea_87DD020F_9575_0736_41DF_800D5CFDEDAB.toolTip = Elevador
+HotspotPanoramaOverlayArea_82746550_973D_0D2A_41DF_97976B4EDBC0.toolTip = Elevador para auditório
+HotspotPanoramaOverlayArea_86DA5936_9742_0ABD_41D6_A8BC5E864065.toolTip = Elevador para estacionamento rotativo
+HotspotPanoramaOverlayArea_87F8BF02_957F_FD2E_41B7_7363C3929D81.toolTip = Entrada
+HotspotPanoramaOverlayArea_8730A372_9575_05EE_41E0_94A630F7ADC6.toolTip = Entrada 
+HotspotPanoramaOverlayArea_982518A1_9742_0A57_41E1_3C5B41769926.toolTip = Entrada Principal
+HotspotPanoramaOverlayArea_8767F77B_9575_0DDE_41B9_7FF08239346F.toolTip = Entrada exclusiva para autoridades
+HotspotPanoramaOverlayArea_87208AC4_957B_072A_41D5_6F865325800E.toolTip = Entrada para autoridades
+HotspotPanoramaOverlayArea_87B3A968_954D_05FA_41B9_EDD69A0CAB93.toolTip = Entrar no estacionamento
+HotspotPanoramaOverlayArea_8709D721_9575_0D6A_41E1_71813A186FA0.toolTip = Estacionamento Rotativo
+HotspotPanoramaOverlayArea_8E8E5E0C_9A83_0CC6_41A7_FA10DA9882F5.toolTip = Estacionamento Rotativo
+HotspotPanoramaOverlayArea_868B9116_9746_3A7D_41D5_F0D1756CC38E.toolTip = Foyer
+HotspotPanoramaOverlayArea_832F5D3D_974D_1D55_41CE_590210087094.toolTip = Foyer
+HotspotPanoramaOverlayArea_87E5233C_9577_055A_41E0_C8BE2798820B.toolTip = Guichê de pagamento
+HotspotPanoramaOverlayArea_873ED08B_957F_033E_41A8_9FD2876493BD.toolTip = Hall de acesso
+HotspotPanoramaOverlayArea_86D85BE2_9742_0DD5_41B3_6CBB04AF87E7.toolTip = Hall de acesso
+HotspotPanoramaOverlayArea_87C12F25_957E_FD6A_41C8_500FBE2CF79E.toolTip = Hall de acesso
+HotspotPanoramaOverlayArea_865FE4DD_974F_FBEF_4190_48663DD1B087.toolTip = Ir para Recepção
+HotspotPanoramaOverlayArea_85583BB6_94CF_033A_41DA_6D3180831745.toolTip = Ir para Recepção
+HotspotPanoramaOverlayArea_85928D99_94F7_07F6_41CA_899F796B7A3C.toolTip = Ir para Recepção
+HotspotPanoramaOverlayArea_854A4897_94CD_0DFA_41D7_6E42014B9D39.toolTip = Ir para Recepção
+HotspotPanoramaOverlayArea_85F92656_94F5_057A_41E2_8027DF39BA96.toolTip = Ir para Recepção
+HotspotPanoramaOverlayArea_872B8B9C_9577_055A_41D4_EA9D76D8ACFA.toolTip = Ir para recepção
+HotspotPanoramaOverlayArea_86249CB6_9742_0BBD_41D5_F5BDFC0EDB65.toolTip = Palco
+HotspotPanoramaOverlayArea_83E6753C_973B_0D5A_41D8_076176FEEFB8.toolTip = Plataforma PNE
+HotspotPanoramaOverlayArea_83E6553C_973B_0D5A_41D4_26328985ACA0.toolTip = Plataforma de acesso
+HotspotPanoramaOverlayArea_87213DE4_957D_1CEA_41DD_72AFD385AF98.toolTip = Recepção
+HotspotPanoramaOverlayArea_836BBB9B_9775_055E_41D4_69B92076515C.toolTip = Sala de tradução
+HotspotPanoramaOverlayArea_8289BBA2_973B_056F_41CC_9ABDBB461B6C.toolTip = Sala de tradução
+HotspotPanoramaOverlayArea_82CE51ED_9735_04FA_41CF_849D9107359F.toolTip = Sala de áudio e video
+HotspotPanoramaOverlayArea_83228DC0_9775_1D2A_41B7_49365B3C33C4.toolTip = Sala de áudio e video
+HotspotPanoramaOverlayArea_8470F9B5_954D_056A_41C8_CF46E61C5C9D.toolTip = Via L2 Norte
+HotspotPanoramaOverlayArea_86F96A53_974E_0EFB_41D1_A96449FAB4AE.toolTip = Via SGAN 601
+HotspotPanoramaOverlayArea_8374E2A3_974F_076E_41E1_A358C71ABE7D.toolTip = Voltar
+HotspotPanoramaOverlayArea_82B44D39_9776_FD5A_41DE_F3C2D16A7BA8.toolTip = Voltar Foyer
+HotspotPanoramaOverlayArea_86C73E48_9746_06D5_41C2_6CF1BDD89958.toolTip = Voltar para Foyer
+HotspotPanoramaOverlayArea_8732DC79_9575_03DD_4172_DE8E33597A6C.toolTip = Voltar para Foyer
+HotspotPanoramaOverlayArea_87DBBD2D_954B_3D7A_41D2_9569B1A7F799.toolTip = Voltar para entrada
+HotspotPanoramaOverlayArea_8541B2FA_94F5_FD2A_4192_E0F4A5CBD321.toolTip = Voltar para entrada
+HotspotPanoramaOverlayArea_82B6485F_9777_03D6_41E1_B2553BFAB48D.toolTip = Votlar Foyer
+HotspotPanoramaOverlayArea_870F4915_957B_052A_41C9_F672115877B7.toolTip = subir para Hall de acesso
+
+## Media
+
+### Audio
+audio_B3B73B4E_A584_6640_41E3_9919A5338D10.path = null
+audio_B0216C91_A584_22C1_41C9_8EC770AF744E.path = null
+audio_B0096200_A5BC_21BF_41E3_C23F26E82060.path = null
+audio_B034317E_A585_E243_41BA_603E727B0D90.path = null
+audio_B0C6901C_A5BC_61C0_41DA_11F6129ABB93.path = null
+audio_B06686FE_A584_2E43_41E0_35A30BAF5BD3.path = null
+audio_B3BB39E4_A58C_2247_41E2_ED90330CE1F4.path = null
+audio_B3A12E00_A58C_61BF_41CA_6E0616216E50.path = null
+audio_B3843332_A58C_E7C3_41C1_179707863C8E.path = null
+audio_B329A390_A58C_26DF_41D9_31D7BF50081B.path = null
+audio_B32B87C6_A58C_2E43_41D5_F39753B22355.path = null
+audio_B076EFF0_A584_3E5F_41B6_814DF2182021.path = null
+audio_B003C3FF_A584_2640_41D8_5CE75F0A6F48.path = null
+audio_B3ACA5AD_A58C_22C1_41C6_3B031AF09D8B.path = null
+audio_B061D7AB_A58C_2EC0_41DC_372CAC79633B.path = null
+audio_B33F2170_A58C_E25F_41E4_32716BE4C80F.path = null
+audio_B0076318_A584_E7C0_41E2_BF58D65BC82D.path = null
+audio_85CB800C_A58C_21C7_41DC_F95BD76C3D9D.path = null
+audio_BA47A9A2_A58C_22C0_41E1_0369B3AA6DB9.path = null
+audio_B26A369B_A58C_2EC1_41D5_FC0EFD3C0F0A.path = null
+audio_B0725198_A584_22CF_41DC_A194CEA2A869.path = null
+audio_B0254E96_A584_1EC3_41BD_34AC7014E799.path = null
+audio_B30E2715_A58C_6FC0_41C6_E902EF1464E0.path = null
+audio_B36D4402_A58F_E1C0_41D7_B337736D254B.path = null
+audiores_B26AE5B4_A58C_22C0_41E2_8D0FA888BE0C.mp3Url = media/audio_85CB800C_A58C_21C7_41DC_F95BD76C3D9D_pt.mp3
+audiores_B26AE5B4_A58C_22C0_41E2_8D0FA888BE0C.mp3Url = media/audio_85CB800C_A58C_21C7_41DC_F95BD76C3D9D_pt.mp3
+audiores_B26AE5B4_A58C_22C0_41E2_8D0FA888BE0C.mp3Url = media/audio_85CB800C_A58C_21C7_41DC_F95BD76C3D9D_pt.mp3
+audiores_B26AE5B4_A58C_22C0_41E2_8D0FA888BE0C.oggUrl = media/audio_85CB800C_A58C_21C7_41DC_F95BD76C3D9D_pt.ogg
+audiores_B26AE5B4_A58C_22C0_41E2_8D0FA888BE0C.oggUrl = media/audio_85CB800C_A58C_21C7_41DC_F95BD76C3D9D_pt.ogg
+audiores_B26AE5B4_A58C_22C0_41E2_8D0FA888BE0C.oggUrl = media/audio_85CB800C_A58C_21C7_41DC_F95BD76C3D9D_pt.ogg
+audiores_BA9D5941_A59C_2240_41D9_AFA7EB2A5527.mp3Url = media/audio_B003C3FF_A584_2640_41D8_5CE75F0A6F48_pt.mp3
+audiores_BA9D5941_A59C_2240_41D9_AFA7EB2A5527.oggUrl = media/audio_B003C3FF_A584_2640_41D8_5CE75F0A6F48_pt.ogg
+audiores_BA98776C_A59C_2E40_41C6_01FB78326B9C.mp3Url = media/audio_B0076318_A584_E7C0_41E2_BF58D65BC82D_pt.mp3
+audiores_BA98776C_A59C_2E40_41C6_01FB78326B9C.oggUrl = media/audio_B0076318_A584_E7C0_41E2_BF58D65BC82D_pt.ogg
+audiores_B01317AA_A5BC_2EC0_41B0_6B2C6A22F822.mp3Url = media/audio_B0096200_A5BC_21BF_41E3_C23F26E82060_pt.mp3
+audiores_B01317AA_A5BC_2EC0_41B0_6B2C6A22F822.oggUrl = media/audio_B0096200_A5BC_21BF_41E3_C23F26E82060_pt.ogg
+audiores_BA92F3FD_A59C_2641_41D0_509D899FD7ED.mp3Url = media/audio_B0216C91_A584_22C1_41C9_8EC770AF744E_pt.mp3
+audiores_BA92F3FD_A59C_2641_41D0_509D899FD7ED.oggUrl = media/audio_B0216C91_A584_22C1_41C9_8EC770AF744E_pt.ogg
+audiores_BAAF42C9_A59C_2640_41CE_53FAAE94890C.mp3Url = media/audio_B0254E96_A584_1EC3_41BD_34AC7014E799_pt.mp3
+audiores_BAAF42C9_A59C_2640_41CE_53FAAE94890C.oggUrl = media/audio_B0254E96_A584_1EC3_41BD_34AC7014E799_pt.ogg
+audiores_BAAAB13B_A59C_23C0_41BE_68DC0A64E193.mp3Url = media/audio_B034317E_A585_E243_41BA_603E727B0D90_pt.mp3
+audiores_BAAAB13B_A59C_23C0_41BE_68DC0A64E193.oggUrl = media/audio_B034317E_A585_E243_41BA_603E727B0D90_pt.ogg
+audiores_B00F0559_A5BC_2240_41D9_22D3A9E7F32D.mp3Url = media/audio_B061D7AB_A58C_2EC0_41DC_372CAC79633B_pt.mp3
+audiores_B00F0559_A5BC_2240_41D9_22D3A9E7F32D.oggUrl = media/audio_B061D7AB_A58C_2EC0_41DC_372CAC79633B_pt.ogg
+audiores_BA838A1A_A59C_21C3_41DB_28E390DFAA44.mp3Url = media/audio_B06686FE_A584_2E43_41E0_35A30BAF5BD3_pt.mp3
+audiores_BA838A1A_A59C_21C3_41DB_28E390DFAA44.oggUrl = media/audio_B06686FE_A584_2E43_41E0_35A30BAF5BD3_pt.ogg
+audiores_BA85DC7B_A59C_2240_41E4_008D8EC64BF6.mp3Url = media/audio_B0725198_A584_22CF_41DC_A194CEA2A869_pt.mp3
+audiores_BA85DC7B_A59C_2240_41E4_008D8EC64BF6.oggUrl = media/audio_B0725198_A584_22CF_41DC_A194CEA2A869_pt.ogg
+audiores_B3F16035_A58B_E1C1_41A2_3390D70197A8.mp3Url = media/audio_B076EFF0_A584_3E5F_41B6_814DF2182021_pt.mp3
+audiores_B3F16035_A58B_E1C1_41A2_3390D70197A8.oggUrl = media/audio_B076EFF0_A584_3E5F_41B6_814DF2182021_pt.ogg
+audiores_B01508F8_A5BC_224F_41C1_690AEA4947AF.mp3Url = media/audio_B0C6901C_A5BC_61C0_41DA_11F6129ABB93_pt.mp3
+audiores_B01508F8_A5BC_224F_41C1_690AEA4947AF.oggUrl = media/audio_B0C6901C_A5BC_61C0_41DA_11F6129ABB93_pt.ogg
+audiores_BEAA0837_A59C_21C0_41C3_BCF097D56725.mp3Url = media/audio_B30E2715_A58C_6FC0_41C6_E902EF1464E0_pt.mp3
+audiores_BEAA0837_A59C_21C0_41C3_BCF097D56725.oggUrl = media/audio_B30E2715_A58C_6FC0_41C6_E902EF1464E0_pt.ogg
+audiores_BEA735A9_A59C_22C0_41D0_DF0B43AA420B.mp3Url = media/audio_B329A390_A58C_26DF_41D9_31D7BF50081B_pt.mp3
+audiores_BEA735A9_A59C_22C0_41D0_DF0B43AA420B.oggUrl = media/audio_B329A390_A58C_26DF_41D9_31D7BF50081B_pt.ogg
+audiores_BEA664B1_A59C_22C1_41B6_BE0BED1A09EA.mp3Url = media/audio_B32B87C6_A58C_2E43_41D5_F39753B22355_pt.mp3
+audiores_BEA664B1_A59C_22C1_41B6_BE0BED1A09EA.oggUrl = media/audio_B32B87C6_A58C_2E43_41D5_F39753B22355_pt.ogg
+audiores_BEA56719_A59C_2FC1_41B0_D4B2126B7C3E.mp3Url = media/audio_B33F2170_A58C_E25F_41E4_32716BE4C80F_pt.mp3
+audiores_BEA56719_A59C_2FC1_41B0_D4B2126B7C3E.oggUrl = media/audio_B33F2170_A58C_E25F_41E4_32716BE4C80F_pt.ogg
+audiores_BEA829A3_A59C_22C1_41CE_929C6B6EC64E.mp3Url = media/audio_B36D4402_A58F_E1C0_41D7_B337736D254B_pt.mp3
+audiores_BEA829A3_A59C_22C1_41CE_929C6B6EC64E.oggUrl = media/audio_B36D4402_A58F_E1C0_41D7_B337736D254B_pt.ogg
+audiores_BEA00320_A59C_27FF_41E1_1FCF03A1461D.mp3Url = media/audio_B3843332_A58C_E7C3_41C1_179707863C8E_pt.mp3
+audiores_BEA00320_A59C_27FF_41E1_1FCF03A1461D.oggUrl = media/audio_B3843332_A58C_E7C3_41C1_179707863C8E_pt.ogg
+audiores_BEA2B1C3_A59C_2240_41E3_D5B2B7D6DFE6.mp3Url = media/audio_B3A12E00_A58C_61BF_41CA_6E0616216E50_pt.mp3
+audiores_BEA2B1C3_A59C_2240_41E3_D5B2B7D6DFE6.oggUrl = media/audio_B3A12E00_A58C_61BF_41CA_6E0616216E50_pt.ogg
+audiores_B0113663_A5BC_2E40_41E3_D22B84020F86.mp3Url = media/audio_B3ACA5AD_A58C_22C1_41C6_3B031AF09D8B_pt.mp3
+audiores_B0113663_A5BC_2E40_41E3_D22B84020F86.oggUrl = media/audio_B3ACA5AD_A58C_22C1_41C6_3B031AF09D8B_pt.ogg
+audiores_BA8F2EB3_A59C_3EC1_41DB_C5698CD91BD1.mp3Url = media/audio_B3B73B4E_A584_6640_41E3_9919A5338D10_pt.mp3
+audiores_BA8F2EB3_A59C_3EC1_41DB_C5698CD91BD1.oggUrl = media/audio_B3B73B4E_A584_6640_41E3_9919A5338D10_pt.ogg
+audiores_BEB9E04D_A59C_2241_41BE_7F9161F25F07.mp3Url = media/audio_B3BB39E4_A58C_2247_41E2_ED90330CE1F4_pt.mp3
+audiores_BEB9E04D_A59C_2241_41BE_7F9161F25F07.oggUrl = media/audio_B3BB39E4_A58C_2247_41E2_ED90330CE1F4_pt.ogg
+
+### Image
+imlevel_E5274C79_A6BC_2240_41DD_7B43BB7EFE8D.url = media/panorama_9F99D3B6_94F5_033A_41D8_6FB148E402F8_HS_sy9fkhq5_pt.png
+imlevel_E53E740C_A6BC_21C0_41C5_1DD04AF4F77D.url = media/panorama_9F99EC7D_94F5_052E_41DB_DAC28B35D8AC_HS_2u2bz37p_pt.png
+imlevel_E53F1439_A6BC_21C1_41E0_8F81A057CF79.url = media/panorama_9F99EC7D_94F5_052E_41DB_DAC28B35D8AC_HS_p1r00ss6_pt.png
+imlevel_E5272C37_A6BC_21C0_41E4_8DC39DC1B2E1.url = media/panorama_9F9A106F_94F5_1D2A_41E2_6A1FA6DBEED6_HS_huscxnbh_pt.png
+imlevel_E521DAE2_A6BC_2643_41B9_1B5E8D20D7C3.url = media/panorama_9FA60871_94CB_0D36_41DD_DB3010694EC9_HS_te4j81a3_pt.png
+imlevel_E531C0C9_A6BC_2243_418A_C09623E5FF86.url = media/popup_9009760A_A784_E1C0_41C0_06B3543F0F7D_pt_0_0.png
+imlevel_E531B0CA_A6BC_2240_41C9_637408F589AA.url = media/popup_9009760A_A784_E1C0_41C0_06B3543F0F7D_pt_0_1.png
+imlevel_E531A0CA_A6BC_2240_41E2_8F4B7B65AD5A.url = media/popup_9009760A_A784_E1C0_41C0_06B3543F0F7D_pt_0_2.png
+imlevel_E53FB3FE_A6BC_2640_41E3_4A5BB72B6D31.url = media/popup_90B0C136_A78F_E3C0_41E1_28BA4E7B60D7_pt_0_0.png
+imlevel_E53FA3FE_A6BC_2640_41CF_4AE66B88F02A.url = media/popup_90B0C136_A78F_E3C0_41E1_28BA4E7B60D7_pt_0_1.png
+imlevel_E53F73FE_A6BC_2640_41DF_F36FCB86BDB3.url = media/popup_90B0C136_A78F_E3C0_41E1_28BA4E7B60D7_pt_0_2.png
+imlevel_E5290F15_A6BC_3FC1_41CD_702B09757651.url = media/popup_90FDFFCD_A784_3E40_41E4_A22173DAE25C_pt_0_0.png
+imlevel_E5291F15_A6BC_3FC1_41C1_B4F18B0D285A.url = media/popup_90FDFFCD_A784_3E40_41E4_A22173DAE25C_pt_0_1.png
+imlevel_E52EEF15_A6BC_3FC1_41E0_DE0BDE0045FF.url = media/popup_90FDFFCD_A784_3E40_41E4_A22173DAE25C_pt_0_2.png
+imlevel_E534F260_A6BC_2640_4193_CD90A19E589E.url = media/popup_9190420A_A7BC_61C3_419C_1AFEDC03342E_pt_0_0.png
+imlevel_E534E260_A6BC_2640_41D7_64F522754942.url = media/popup_9190420A_A7BC_61C3_419C_1AFEDC03342E_pt_0_1.png
+imlevel_E534C260_A6BC_2640_41C3_CA57B7440134.url = media/popup_9190420A_A7BC_61C3_419C_1AFEDC03342E_pt_0_2.png
+
+### Popup Image
+popup_90FDFFCD_A784_3E40_41E4_A22173DAE25C.path = null
+popup_90B0C136_A78F_E3C0_41E1_28BA4E7B60D7.path = null
+popup_9009760A_A784_E1C0_41C0_06B3543F0F7D.path = null
+popup_9190420A_A7BC_61C3_419C_1AFEDC03342E.path = null
+
+### Title
+panorama_98C249EF_94CB_0F2B_41C3_0920430531FD.label = ACESSO A RECEPÇÃO VIA ENTRADA PRINCIPAL
+panorama_9FA27592_94CB_07FA_41BB_3E700648DA11.label = ACESSO A RECEPÇÃO VIA ESTACIONAMENTO ROTATIVO
+panorama_9FA610E6_94CB_1D5A_41E0_F793D94CD5B0.label = ACESSO A RECEPÇÃO VIA L2 NORTE
+panorama_9FA62C2B_94CB_052A_41C3_9778F980E8D7.label = ACESSO AO AUDITÓRIO
+panorama_9FA657B3_94CB_033A_41A3_7A47A987892A.label = ACESSO AO PALCO
+panorama_9FA61275_94CB_1D3E_41C8_73A37B4BA428.label = ACESSO AOS AMBIENTES
+panorama_9FA63CC6_94CB_055A_41C0_27F56506FF82.label = ACESSO EXCLUSIVO PARA AUTORIDADES
+panorama_9FA61F95_94CB_03FE_41E0_CD468EF7B5B3.label = AUDITÓRIO
+panorama_9FA6C55C_94CB_076E_41D6_34212B75EEC5.label = AUDITÓRIO FOYER
+panorama_9FA6FA1E_94CB_0CEA_41B5_E91E379A21CD.label = BANHEIROS EXCLUSIVOS
+panorama_9FA6249B_94CB_05EA_41D5_F098EA66F0FD.label = BANHEIROS PARA MOBILIDADE REDUZIDA
+panorama_9FA65F54_94CB_037E_41CB_6C3D8CA77801.label = CENTRO DO AUDITORIO
+panorama_9FA609F5_94CB_0F3E_41E1_3B322E10A9C9.label = COPA
+album_B880B93A_9A81_0A67_4177_5917D158A053_0.label = DJI_0710
+album_B880B93A_9A81_0A67_4177_5917D158A053_1.label = DJI_0722
+album_B880B93A_9A81_0A67_4177_5917D158A053_2.label = DJI_0741
+album_B880B93A_9A81_0A67_4177_5917D158A053_3.label = DJI_0752
+panorama_9FA6665E_94CB_056A_41D2_E09E8AE8FCB6.label = ELEVADOR DO ESTACIONAMENTO ROTATIVO
+panorama_9FA61218_94CB_3CF5_41DB_2245381B0384.label = ELEVADOR PARA ACESSAR ESTACIONAMENTO ROTATIVO
+panorama_9FA65D20_94CB_04D5_41D4_F6ED1E00F1A1.label = ELEVADOR PLATAFORMA PNE
+panorama_9FA5F7D1_94CB_0376_41BA_68B96DC05982.label = ENTRADA DO AUDITÓRIO
+panorama_9F99D3B6_94F5_033A_41D8_6FB148E402F8.label = ENTRADA PELO ESTACIONAMENTO ROTATIVO
+panorama_9FA60871_94CB_0D36_41DD_DB3010694EC9.label = ENTRADA PRINCIPAL
+panorama_9F9A106F_94F5_1D2A_41E2_6A1FA6DBEED6.label = ENTRADA VIA L2 NORTE
+panorama_9F99EC7D_94F5_052E_41DB_DAC28B35D8AC.label = ESTACIONAMENTO ROTATIVO
+panorama_9F9A07B3_94F5_033A_41D7_F44BEF9E2211.label = GUICHÊ DE PAGAMENTO
+panorama_9F99C358_94F5_0375_41C3_6DD9E8DF951D.label = HALL DE ACESSO
+panorama_9F9A7E48_94F5_0556_41D5_64EA6578E040.label = PALCO
+panorama_9F9A58FE_94F5_0D2A_41E2_17D6F906D889.label = PORTA ABERTA  ACESSO EXCLUSIVO PARA AUTORIDADES
+panorama_9F9A14BE_94F5_052A_410E_3AFC931FF4E0.label = RECEPÇÃO
+panorama_9F9A1FEC_94F5_032D_41C2_6825AF95F0C0.label = SALA DE ÁUDIO E VIDEO
+panorama_9F9ACAE0_94F5_0D56_41DC_33D2DDBD2974.label = TRADUÇÃO SIMULTÂNIA
+photo_AF386EDD_A038_4D6E_41DC_3F86B20F3B8D.label = localização aérea
+photo_AF386EDD_A038_4D6E_41DC_3F86B20F3B8D.label = localização aérea
+album_B880B93A_9A81_0A67_4177_5917D158A053.label = Álbum de Fotos DJI_0710
+
+## Skin
+
+### Button
+Button_B72AE124_9980_FA63_41DA_CA5FDF361FD0.label = AMBIENTES
+Button_A19DA0B6_9980_FA6C_41E3_44CA1AB4C290.label = AMBIENTES
+Button_84EFC2C0_9B81_3E24_41C2_8799C09F48B2.label = EVENTOS
+Button_81D4F341_9B81_1E24_41DD_1D8BD52A4471.label = Espaços
+Button_85A130F5_9A81_1BED_41DC_083AC9EDF8D5.label = INFRAESTRUTURA
+Button_80794816_A687_E1C0_41C0_8B05A51A118C.label = RESERVAR AUDITÓRIO
+Button_83F54CA5_A687_E2C1_41C2_186A9EAC8058.label = RESERVAR AUDITÓRIO
+Button_85BA0652_A584_EE40_41E2_161E01FB6438.label = RESERVAR AUDITÓRIO
+Button_8183AA23_A6BC_21C0_41CC_1A8C606662AE.label = RESERVAR AUDITÓRIO
+Button_062AF830_1140_E215_418D_D2FC11B12C47.label = Reservar espaço
+Button_9330BE61_A79C_1E41_41DD_FCDB8913BCE4.label = SUGESTÃO DE LAYOUT AUDITÓRIO
+Button_8BF7A427_97CE_7A5B_41B9_010D57BCE6B0.label = VISTA AÉREA
+Button_817103B0_A69C_26DF_41DC_70E0224E0708.label = {{Title}}
+Button_84DE8B52_9A81_0E27_41E0_8388F98E07F7.label = ÁREA COMUM
+
+### Image
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397.path = null
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0.path = null
+Image_B1F23CD9_9746_0BF7_41E2_A26461630128.path = null
+Image_801F1EB4_9B83_0663_41BD_C4A1D90E02E6.path = null
+Image_80295F82_97C6_0655_41D1_DCC8DB3A14D6.path = null
+Image_84C721F8_9A81_1DE4_41C7_85A94C4E7CE4.path = null
+Image_85A9C8DC_9A83_0A23_41C6_2C18E0054A1A.path = null
+Image_B58B8FBA_9981_0664_41E1_0882007E5343.path = null
+Image_8050B4F2_9B81_1BE7_419C_558C5501139B.path = null
+Image_802AD823_9B81_0A65_41DE_6C0A8D5E64B8.path = null
+Image_85CB8453_9A83_3A25_41A4_F3E1357A5746.path = null
+Image_804B687B_9B8F_0AE5_41D8_AA720FF867A2.path = null
+Image_83FA5CA4_A687_E2C7_41C6_24D95AA17B96.path = null
+Image_8181EA20_A6BC_21C0_41E4_95963BC9BBEF.path = null
+Image_8008DC02_9B83_0A24_41C3_1D1D1EC527AA.path = null
+Image_807E980B_A687_E1C1_41E4_2A4062AEBD9C.path = null
+Image_81E6D16A_9B81_3AE4_41DB_BBB90D7B1521.path = null
+Image_8023E4CA_9B83_1A24_414E_CC562409CC24.path = null
+Image_802A733E_9B83_1E5F_41D5_BE0C2F76F185.path = null
+Image_84C3B736_9A83_066F_41A0_A76688B189CF.path = null
+Image_80FE7C7A_9B81_0AE7_41B2_1210CD4843D6.path = null
+Image_84A7D527_9A81_3A6C_4167_D5F78AEAA45A.path = null
+Image_85928EEB_9A83_07E4_41BE_E114C471F0C1.path = null
+Image_800232A8_9B83_1E63_41DE_BD41834A1C83.path = null
+Image_85D5BD6B_9A83_0AE4_41AC_01E69C23CE4B.path = null
+Image_8138E32A_9B81_3E64_41CB_F990FB4E414C.path = null
+Image_80584972_9B83_0AE4_41CA_8108DFFB258A.path = null
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A.path = null
+Image_85828334_9A83_1E63_41CB_DEFB3FE94091.path = null
+Image_BDE1F33C_9A83_3E63_41E1_42D374480A0B.path = null
+Image_802DCC42_9B81_0A27_41CF_75EA87C93555.path = null
+Image_85A060F4_9A81_1BE3_41B8_0E52DF5E5E7D.path = null
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_pt.jpeg
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_pt.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_pt.jpg
+Image_800232A8_9B83_1E63_41DE_BD41834A1C83.url = skin/Image_800232A8_9B83_1E63_41DE_BD41834A1C83_pt.jpeg
+Image_8008DC02_9B83_0A24_41C3_1D1D1EC527AA.url = skin/Image_8008DC02_9B83_0A24_41C3_1D1D1EC527AA_pt.jpeg
+Image_801F1EB4_9B83_0663_41BD_C4A1D90E02E6.url = skin/Image_801F1EB4_9B83_0663_41BD_C4A1D90E02E6_pt.jpg
+Image_8023E4CA_9B83_1A24_414E_CC562409CC24.url = skin/Image_8023E4CA_9B83_1A24_414E_CC562409CC24_pt.jpeg
+Image_80295F82_97C6_0655_41D1_DCC8DB3A14D6.url = skin/Image_80295F82_97C6_0655_41D1_DCC8DB3A14D6_pt.png
+Image_802A733E_9B83_1E5F_41D5_BE0C2F76F185.url = skin/Image_802A733E_9B83_1E5F_41D5_BE0C2F76F185_pt.jpeg
+Image_802AD823_9B81_0A65_41DE_6C0A8D5E64B8.url = skin/Image_802AD823_9B81_0A65_41DE_6C0A8D5E64B8_pt.jpeg
+Image_802DCC42_9B81_0A27_41CF_75EA87C93555.url = skin/Image_802DCC42_9B81_0A27_41CF_75EA87C93555_pt.jpeg
+Image_804B687B_9B8F_0AE5_41D8_AA720FF867A2.url = skin/Image_804B687B_9B8F_0AE5_41D8_AA720FF867A2_pt.jpeg
+Image_8050B4F2_9B81_1BE7_419C_558C5501139B.url = skin/Image_8050B4F2_9B81_1BE7_419C_558C5501139B_pt.jpeg
+Image_80584972_9B83_0AE4_41CA_8108DFFB258A.url = skin/Image_80584972_9B83_0AE4_41CA_8108DFFB258A_pt.jpeg
+Image_807E980B_A687_E1C1_41E4_2A4062AEBD9C.url = skin/Image_807E980B_A687_E1C1_41E4_2A4062AEBD9C_pt.jpeg
+Image_80FE7C7A_9B81_0AE7_41B2_1210CD4843D6.url = skin/Image_80FE7C7A_9B81_0AE7_41B2_1210CD4843D6_pt.jpeg
+Image_8138E32A_9B81_3E64_41CB_F990FB4E414C.url = skin/Image_8138E32A_9B81_3E64_41CB_F990FB4E414C_pt.jpeg
+Image_8181EA20_A6BC_21C0_41E4_95963BC9BBEF.url = skin/Image_8181EA20_A6BC_21C0_41E4_95963BC9BBEF_pt.jpeg
+Image_81E6D16A_9B81_3AE4_41DB_BBB90D7B1521.url = skin/Image_81E6D16A_9B81_3AE4_41DB_BBB90D7B1521_pt.jpeg
+Image_83FA5CA4_A687_E2C7_41C6_24D95AA17B96.url = skin/Image_83FA5CA4_A687_E2C7_41C6_24D95AA17B96_pt.jpeg
+Image_84A7D527_9A81_3A6C_4167_D5F78AEAA45A.url = skin/Image_84A7D527_9A81_3A6C_4167_D5F78AEAA45A_pt.jpeg
+Image_84C3B736_9A83_066F_41A0_A76688B189CF.url = skin/Image_84C3B736_9A83_066F_41A0_A76688B189CF_pt.jpeg
+Image_84C721F8_9A81_1DE4_41C7_85A94C4E7CE4.url = skin/Image_84C721F8_9A81_1DE4_41C7_85A94C4E7CE4_pt.jpeg
+Image_85828334_9A83_1E63_41CB_DEFB3FE94091.url = skin/Image_85828334_9A83_1E63_41CB_DEFB3FE94091_pt.jpeg
+Image_85928EEB_9A83_07E4_41BE_E114C471F0C1.url = skin/Image_85928EEB_9A83_07E4_41BE_E114C471F0C1_pt.jpeg
+Image_85A060F4_9A81_1BE3_41B8_0E52DF5E5E7D.url = skin/Image_85A060F4_9A81_1BE3_41B8_0E52DF5E5E7D_pt.jpg
+Image_85A9C8DC_9A83_0A23_41C6_2C18E0054A1A.url = skin/Image_85A9C8DC_9A83_0A23_41C6_2C18E0054A1A_pt.jpeg
+Image_85CB8453_9A83_3A25_41A4_F3E1357A5746.url = skin/Image_85CB8453_9A83_3A25_41A4_F3E1357A5746_pt.jpeg
+Image_85D5BD6B_9A83_0AE4_41AC_01E69C23CE4B.url = skin/Image_85D5BD6B_9A83_0AE4_41AC_01E69C23CE4B_pt.jpeg
+Image_B1F23CD9_9746_0BF7_41E2_A26461630128.url = skin/Image_B1F23CD9_9746_0BF7_41E2_A26461630128_pt.jpeg
+Image_B58B8FBA_9981_0664_41E1_0882007E5343.url = skin/Image_B58B8FBA_9981_0664_41E1_0882007E5343_pt.jpeg
+Image_BDE1F33C_9A83_3E63_41E1_42D374480A0B.url = skin/Image_BDE1F33C_9A83_3E63_41E1_42D374480A0B_pt.jpeg
+
+### Label
+Label_81AA4B43_9B81_0E25_41A7_FCE271058A40.text = AUDITÓRIO
+Label_BEE9A484_9A81_3A23_41B7_804CFE63A41B.text = Acesso Exclusivo para Auditoridades
+Label_BB2BF855_9A83_0A2D_41B2_81613EADCE0A.text = Acesso a Recepção via Entrada Principal
+Label_BB0ACAE4_9A83_0FEC_41E0_FE4DF3E08A4C.text = Acesso a Recepção via L2 Norte
+Label_84EE3CA8_9A83_0A63_41E3_38AD115AEDAA.text = Acesso a Recepção via Rotativo
+Label_BEC0F9C8_9A83_0A24_41D4_E20133B7658A.text = Acesso ao Auditório
+Label_BD2303ED_9A87_3DFD_41C3_0E1426A5B15A.text = Auditório
+Label_80E324C3_9B83_3A24_41D1_DFE4CB02CB1E.text = Auditório Foyer
+Label_BEF32387_9A81_3E2C_41AC_F44ED8CA4572.text = Banheiros exclusivos
+Label_BD04D1A3_9A87_1A64_41D0_F2C097AB8B4D.text = Centro do Auditório
+Label_BEAFF14F_9A87_1A3C_41E3_547030F9A2DF.text = Copa
+Label_B505EAD6_999F_0E2C_41E1_82213A9B8777.text = Elevador do Estacionamento para o Auditório
+Label_BE0DB729_9A81_0665_41D9_7E0F9DFB31F9.text = Elevador plataforma PNE
+Label_848ADEC5_9A83_062D_41E0_98F5D7706455.text = Entrada Principal
+Label_80541225_9B81_1E6D_4121_520385BFF784.text = Entrada do Auditório
+Label_84E44914_9AFF_0A2C_41E3_36E983A90582.text = Entrada pelo Estacionamento Rotativo
+Label_85E9D698_9A8F_0623_41C3_74A3532F8090.text = Entrada via L2 Norte
+Label_BBBF003C_9A8F_1A5C_41E1_A85E747E92C1.text = Guichê de pagamento
+Label_81371802_9B83_0A27_41D2_80A03170D74E.text = Hall de acesso
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1.text = ION ESCRITÓRIOS EFICIENTES
+Label_BDFB1690_9A81_0623_41D4_4B6C580A2F06.text = Palco
+Label_8411FF04_9A8F_0623_41DE_AEE39A038DCC.text = Recepção
+Label_BECA701A_9A81_1A24_4189_FCEBB9120DFC.text = Sala  de áudio e video
+Label_BDB02887_9A81_0A2C_41C1_C1991D27FB66.text = Sala Tradução simultânia
+
+### Multiline Text
+HTMLText_81EE962A_9B8F_0664_41DE_37D05638662A.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:125%;text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#212c41;font-size:15px;">No Condomínio Ion, oferecemos um ambiente moderno e versátil, perfeito para eventos corporativos, palestras, cursos e treinamentos.</SPAN></SPAN></DIV><DIV STYLE="line-height:125%;text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#212c41;font-size:15px;">Aqui, você tem total liberdade para organizar seu evento do seu jeito, escolhendo os fornecedores que melhor atendem às suas necessidades, como buffet, decoração e audiovisual. Nosso espaço foi projetado para proporcionar um ambiente profissional e acolhedor, ideal para promover conexões, compartilhar conhecimentos e criar experiências memoráveis. Conte conosco para oferecer a infraestrutura necessária, enquanto você personaliza cada detalhe do seu evento.</SPAN></SPAN></DIV></div>
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.61vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:7.61vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.7000000000000064vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.7000000000000064vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>DOLOR SIT AMET</B></SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.0700000000000016vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:2.07vh;font-family:'Montserrat';"><B>JOHN DOE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.739999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Montserrat';"><B>LICENSED REAL ESTATE SALESPERSON</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.310000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>Tlf.: +11 111 111 111</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.310000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>jhondoe@realestate.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.310000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>www.loremipsum.com</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.199999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></DIV></div>
+HTMLText_85BB1650_A584_EE40_41DA_0CD0A40CDD1B.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:1.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:1.91vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.90880169671262vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#212c41;font-size:1.91vh;">Oferecemos uma infraestrutura moderna com múltiplos acessos para sua conveniência. A entrada principal pela SGAN 601, a entrada pela L2 Norte e pelo estacionamento rotativo garantem agilidade no acesso. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.90880169671262vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:1.91vh;"><B>Na recepção faça seu cadastro para circular pelos ambientes.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.91vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.90880169671262vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:1.91vh;"><B>Verifique disponibilidade dos espaços:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.90880169671262vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:1.91vh;">As reservas são realizadas apenas mediante pagamento da taxa. Não trabalhamos com pré-reserva.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.91vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.90880169671262vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:1.91vh;">Seja nosso condômino e tenha 50% de desconto no valor da locação dos nossos espaços.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.91vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.90880169671262vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:1.91vh;"><B>Estacionamento:</B></SPAN><SPAN STYLE="color:#314464;font-size:1.91vh;"> o estacionamento rotativo disponível no prédio é um serviço particular.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.90880169671262vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:1.91vh;"><B>Horário de funcionamento: </B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.90880169671262vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:1.91vh;">Segunda a sexta: Até às 20h e sábado até às 14h</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.91vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.90880169671262vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:1.91vh;"><B>Funcionamento da administração:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.90880169671262vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:1.91vh;">Segunda à sexta: 8h - 12h e 4h - 18h</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.91vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.90880169671262vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:1.91vh;"><B>Endereço:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.90880169671262vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:1.91vh;">SGAN Quadra 601 Bloco H – L2 Norte (Entre o SERPRO e a CODEVASF) Brasília - DF, 70830-018</SPAN></SPAN></DIV></div>
+HTMLText_81833A22_A6BC_21C0_4190_7BCFDE0602D6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.226935312831392vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.23vh;"><B>AUDITÓRIO</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1208907741251304vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.12vh;"><B>Capacidade máxima: </B></SPAN><SPAN STYLE="color:#314464;font-size:2.12vh;">120 pessoas</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.12vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1208907741251304vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.12vh;"><B>Períodos para reserva:</B></SPAN><SPAN STYLE="color:#314464;font-size:2.12vh;"> </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1208907741251304vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.12vh;">08h às 12h, 14h às 18h e 19h às 23h – deve</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1208907741251304vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.12vh;">compreender todo tempo necessário para montagem e desmontagem da estrutura do seu evento.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.12vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1208907741251304vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.12vh;"><B>Sala de som:</B></SPAN><SPAN STYLE="color:#314464;font-size:2.12vh;"> o uso da sala de som é contratado diretamente com o responsável do espaço: (61) 98304-5579 - Edson.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1208907741251304vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.12vh;"><B>Alimentação e Bebida: </B></SPAN><SPAN STYLE="color:#314464;font-size:2.12vh;">prestadores de serviço à critério do cliente.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.12vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1208907741251304vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.12vh;"><B>Estacionamento:</B></SPAN><SPAN STYLE="color:#314464;font-size:2.12vh;"> o estacionamento rotativo disponível no prédio é um serviço particular. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1208907741251304vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.12vh;">Horário de funcionamento</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1208907741251304vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.12vh;"><B>Internet:</B></SPAN><SPAN STYLE="color:#314464;font-size:2.12vh;"> 10Mb disponível no espaço. Maior banda deve ser contratado diretamente com as empresas instaladas no condomínio.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.12vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.12vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_8078D816_A687_E1C0_41E1_1F4DAAF27348.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.226935312831392vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.23vh;"><B>AUDITÓRIO</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1208907741251304vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.12vh;"><B>Capacidade máxima: </B></SPAN><SPAN STYLE="color:#314464;font-size:2.12vh;">120 pessoas</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.12vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1208907741251304vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.12vh;"><B>Períodos para reserva:</B></SPAN><SPAN STYLE="color:#314464;font-size:2.12vh;"> </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1208907741251304vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.12vh;">08h às 12h, 14h às 18h e 19h às 23h – deve</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1208907741251304vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.12vh;">compreender todo tempo necessário para montagem e desmontagem da estrutura do seu evento.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.12vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1208907741251304vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.12vh;"><B>Sala de som:</B></SPAN><SPAN STYLE="color:#314464;font-size:2.12vh;"> o uso da sala de som é contratado diretamente com o responsável do espaço: (61) 98304-5579 - Edson.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1208907741251304vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.12vh;"><B>Alimentação e Bebida: </B></SPAN><SPAN STYLE="color:#314464;font-size:2.12vh;">prestadores de serviço à critério do cliente.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.12vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1208907741251304vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.12vh;"><B>Estacionamento:</B></SPAN><SPAN STYLE="color:#314464;font-size:2.12vh;"> o estacionamento rotativo disponível no prédio é um serviço particular.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1208907741251304vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.12vh;"><B>Internet:</B></SPAN><SPAN STYLE="color:#314464;font-size:2.12vh;"> 10Mb disponível no espaço. Maior banda deve ser contratado diretamente com as empresas instaladas no condomínio.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.12vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.12vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_83F4BCA5_A687_E2C1_41E3_49769AD8759B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.226935312831392vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.23vh;"><B>AUDITÓRIO</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1208907741251304vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.12vh;"><B>Capacidade máxima: </B></SPAN><SPAN STYLE="color:#314464;font-size:2.12vh;">120 pessoas</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.12vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1208907741251304vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.12vh;"><B>Períodos para reserva:</B></SPAN><SPAN STYLE="color:#314464;font-size:2.12vh;"> </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1208907741251304vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.12vh;">08h às 12h, 14h às 18h e 19h às 23h – deve</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1208907741251304vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.12vh;">compreender todo tempo necessário para montagem e desmontagem da estrutura do seu evento.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.12vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1208907741251304vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.12vh;"><B>Sala de som:</B></SPAN><SPAN STYLE="color:#314464;font-size:2.12vh;"> o uso da sala de som é contratado diretamente com o responsável do espaço: (61) 98304-5579 - Edson.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1208907741251304vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.12vh;"><B>Alimentação e Bebida: </B></SPAN><SPAN STYLE="color:#314464;font-size:2.12vh;">prestadores de serviço à critério do cliente.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.12vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1208907741251304vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.12vh;"><B>Estacionamento:</B></SPAN><SPAN STYLE="color:#314464;font-size:2.12vh;"> o estacionamento rotativo disponível no prédio é um serviço particular.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1208907741251304vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#314464;font-size:2.12vh;"><B>Internet:</B></SPAN><SPAN STYLE="color:#314464;font-size:2.12vh;"> 10Mb disponível no espaço. Maior banda deve ser contratado diretamente com as empresas instaladas no condomínio.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.12vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.12vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_85A020F4_9A81_1BE3_41AD_B67B0C4E0237.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#212c41;font-size:16px;">Oferecemos uma infraestrutura moderna com múltiplos acessos para sua conveniência. A entrada principal pela SGAN 601, a entrada pela L2 Norte e pelo estacionamento rotativo garantem agilidade no acesso. A recepção é de fácil acesso, tanto pela entrada principal quanto pelo estacionamento, e o caminho até o auditório é simples e bem sinalizado. Pensamos em cada detalhe para oferecer um ambiente funcional, acolhedor e eficiente.</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = ION ESCRITÓRIO INTELIGENTES
